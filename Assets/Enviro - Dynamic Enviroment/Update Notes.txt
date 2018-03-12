@@ -1,0 +1,4 @@
+Please delete and reimport package on update to get rid of old files! 
+Make a backup of your changed EnviroSky prefab and weatherprefabs before!
+Then replace the EnviroSky prefab in your scenes with new EnviroSky prefab to get all the new settings! 
+Also make sure to remove old enviro scripts from your camera!
